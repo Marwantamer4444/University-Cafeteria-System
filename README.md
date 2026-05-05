@@ -139,3 +139,4 @@ Project documents are available in the `docs` folder:
 The demo video is not uploaded directly to GitHub because it exceeds GitHub’s file size limit.
 
 Watch the project demo here: 
+https://drive.google.com/file/d/1lCQ3buD6U5Ic77Vx0QSG7A8BAe8mo8OD/view?usp=sharing
