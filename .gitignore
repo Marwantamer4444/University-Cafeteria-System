@@ -1,0 +1,21 @@
+# Java build output
+build/classes/
+out/
+*.class
+
+# IDE and OS files
+.idea/workspace.xml
+.idea/shelf/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local runtime logs
+*.log
+media/demo/demo.mp4
+media/demo/demo.mp4
+media/demo/demo.mp4
+media/demo/demo.mp4
+media/demo/demo.mp4
+build/
+*.class

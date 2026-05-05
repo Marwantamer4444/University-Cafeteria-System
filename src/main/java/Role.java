@@ -1,0 +1,1 @@
+public enum Role { STUDENT, CASHIER, CHEF, MANAGER, ADMIN }
